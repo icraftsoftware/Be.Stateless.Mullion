@@ -1,0 +1,10 @@
+<Solution>
+    <Folder Name="/.claude./">
+        <File Path=".claude\ROADMAP.md"/>
+        <File Path=".claude\REPRISE.md"/>
+    </Folder>
+    <Folder Name="/.doc./">
+        <File Path="README.md"/>
+    </Folder>
+    <Project Path="src\Mullion\Mullion.vcxproj"/>
+</Solution>

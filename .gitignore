@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+.idea/
+.claude/*
+!.claude/ROADMAP.md
+!.claude/REPRISE.md
+*.user
+*.suo
+.vs/
