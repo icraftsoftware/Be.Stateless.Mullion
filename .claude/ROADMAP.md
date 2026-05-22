@@ -1,4 +1,4 @@
-# WinSplit 12 — Roadmap
+# Mullion — Roadmap
 
 > Lean native Win32 window manager. One process, zero dependencies, hotkey-driven.
 
@@ -83,5 +83,5 @@ Criteria: ≤6 chars ideally, no existing Win32 tool with that name, GitHub repo
 
 - Older WinSplit codebases for reference: `../v9.0.2/`, `../v10.x/` (read-only)
 - DMT source + config for sticky edges reference: `C:\Files\Portables\PortableApps\DualMonitorTools\`
-- Solution file: `WinSplit12.slnx` (Rider, dropped .sln)
+- Solution file: `Mullion.slnx`
 - Toolchain: VS 2026 Enterprise, MSVC v145, C++17, pure Win32
